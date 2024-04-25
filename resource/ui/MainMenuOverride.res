@@ -3026,7 +3026,7 @@
 
 				"Slider"
 				{
-					"fgcolor_override"	"TanDark"
+					"fgcolor_override"	"255 255 255 255"
 				}
 		
 				"UpButton"
