@@ -7673,52 +7673,47 @@ Scheme
 			"font" "resource/Cerbetica_bold.ttf"
 			"name" "Cerbetica Bold"
 		}
-		"14"
-		{
-			"font" "resource/Cerbetica_bold_medic.otf"
-			"name" "Cerbetica Bold Medic"
-		}
-		"15" 
+		"14" 
 		{
 			"font" "resource/fonts/Blank.ttf"
 			"name" "BlankSerif"
 		}
-		"16"
+		"15"
 		{
 			"font" "resource/fonts/Gotham-Medium.otf"
 			"name" "Gotham-Medium"
 		}
-		"17"
+		"16"
 		{
 			"font" "resource/fonts/Gotham-Bold.otf"
 			"name" "Gotham-Bold"
 		}
-		"18"
+		"17"
 		{
 			"font" "resource/fonts/Gotham-Black.otf"
 			"name" "Gotham-Black"
 		}
-		"19"
+		"18"
 		{
 			"font" "resource/fonts/Gotham-Ultra.otf"
 			"name" "Gotham-Ultra"
 		}
-		"20"
+		"19"
 		{
 			"font" "resource/fonts/GothamCondensed-Bold.otf"
 			"name" "GothamCondensed-Bold"
 		}
-		"21"
+		"20"
 		{
 			"font" "resource/fonts/GothamCondensed-Medium.otf"
 			"name" "gothamcondensed-medium"
 		}
-		"22"
+		"21"
 		{
             "font" "resource/fonts/Paula.ttf"
             "name" "Paula"
         }
-		"23"
+		"22"
 		{
 			"font"	"resource/fonts/KnucklesCrosses.ttf"
 			"name"	"KnucklesCrosses"
