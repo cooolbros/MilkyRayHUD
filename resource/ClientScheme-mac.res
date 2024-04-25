@@ -4601,6 +4601,5 @@ Scheme
 			"font" "resource/Cerbetica_edited.ttf"
 			"name" "Cerbetica_edited"
 		}
-
+	}
 }
-
