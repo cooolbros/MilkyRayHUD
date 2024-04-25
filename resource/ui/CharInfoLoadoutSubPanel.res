@@ -60,6 +60,22 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+
+	"Scout1Key"
+	{
+		"ControlName"		"Button"
+		"fieldName"			"Scout1Key"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&1"
+		"command"			"loadout scout"
+	}
+
 	"soldier"
 	{
 		"ControlName"		"ImageButton"
@@ -85,6 +101,22 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+
+	"Soldier2Key"
+	{
+		"ControlName"		"Button"
+		"fieldName"			"Soldier2Key"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&2"
+		"command"			"loadout soldier"
+	}
+
 	"pyro"
 	{
 		"ControlName"		"ImageButton"
@@ -110,7 +142,22 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-	
+
+	"Pyro3Key"
+	{
+		"ControlName"		"Button"
+		"fieldName"			"Pyro3Key"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&3"
+		"command"			"loadout pyro"
+	}
+
 	"demoman"
 	{
 		"ControlName"		"ImageButton"
@@ -135,7 +182,23 @@
 		"inactiveimage"		"class_sel_sm_demo_inactive"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
+	}
+
+	"Demoman4Key"
+	{
+		"ControlName"		"Button"
+		"fieldName"			"Demoman4Key"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&4"
+		"command"			"loadout demoman"
+	}
+
 	"heavyweapons"
 	{
 		"ControlName"		"ImageButton"
@@ -161,6 +224,22 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+
+	"Heavyweapons5Key"
+	{
+		"ControlName"		"Button"
+		"fieldName"			"Heavyweapons5Key"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&5"
+		"command"			"loadout heavy"
+	}
+
 	"engineer"
 	{
 		"ControlName"		"ImageButton"
@@ -186,7 +265,22 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
-	
+
+	"Engineer6Key"
+	{
+		"ControlName"		"Button"
+		"fieldName"			"Engineer6Key"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&6"
+		"command"			"loadout engineer"
+	}
+
 	"medic"
 	{
 		"ControlName"		"ImageButton"
@@ -212,6 +306,22 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+
+	"Medic7Key"
+	{
+		"ControlName"		"Button"
+		"fieldName"			"Medic7Key"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&7"
+		"command"			"loadout medic"
+	}
+
 	"sniper"
 	{
 		"ControlName"		"ImageButton"
@@ -237,6 +347,22 @@
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
 	}
+
+	"Sniper8Key"
+	{
+		"ControlName"		"Button"
+		"fieldName"			"Sniper8Key"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&8"
+		"command"			"loadout sniper"
+	}
+
 	"spy"
 	{
 		"ControlName"		"ImageButton"
@@ -261,7 +387,22 @@
 		"inactiveimage"		"class_sel_sm_spy_inactive"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}	
+	}
+
+	"Spy9Key"
+	{
+		"ControlName"		"Button"
+		"fieldName"			"Spy9Key"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&9"
+		"command"			"loadout spy"
+	}
 	
 	"ShowBackpackButton"
 	{
