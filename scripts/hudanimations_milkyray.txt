@@ -111,3 +111,11 @@ event HudReadyPulse
     Animate     TournamentInstructionsLabel    FgColor    "255 69 0 255"     Linear    0.3    0.3
     RunEvent    HudReadyPulseLoop              0.6
 }
+
+event CompetitiveGame_LowerChatWindow
+{
+}
+
+event CompetitiveGame_RestoreChatWindow
+{
+}
