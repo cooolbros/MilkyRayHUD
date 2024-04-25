@@ -1,0 +1,22 @@
+HOW TO INSTALL MILKYRAYHUD:
+
+1. Extract the files of this folder to your C:\Program Files (x86)\Steam\steamapps\common\team fortress 2\tf\custom\<ANY FOLDER NAME> folder.
+
+________
+
+If you'd like to install a hud crosshair, those can be enabled by editing the hudlayout.res file in your tf/scripts folder.
+
+For more information on this, as well as turning on hud crosshair outlines, check out page three of my thread for more detailed instructions:
+
+http://teamfortress.tv/forum/thread/981-rayshud/3
+
+Thank you for using, and I hope you enjoy the hud. :>
+
+
+
+
+
+
+
+
+
