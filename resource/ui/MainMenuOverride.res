@@ -1035,7 +1035,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
 		"xpos"			"r104"				// Server Favorites + 25
-		"ypos"			"5"
+		"ypos"			"30"
 		"zpos"			"1"
 		"wide"			"36"
 		"tall"			"36"
