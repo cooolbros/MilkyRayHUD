@@ -479,7 +479,7 @@
 	"16x9Crosshair_vertical1"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x9Crosshair_vertical1"
 		"xpos"			"427"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -500,7 +500,7 @@
 	"16x9Crosshair_horizontal1"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x9Crosshair_horizontal1"
 		"xpos"			"40"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -521,7 +521,7 @@
 	"16x9Crosshair_horizontal2"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x9Crosshair_horizontal2"
 		"xpos"			"439"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -542,7 +542,7 @@
 	"16x9dark_top"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x9dark_top"
 		"xpos"			"426"
 		"xpos_lodef"	"278"
 		"xpos_hidef"	"308"
@@ -562,7 +562,7 @@
 	"16x9dark_bottom"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x9dark_bottom"
 		"xpos"			"427"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -582,7 +582,7 @@
 	"16x9dark_left"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x9dark_left"
 		"xpos"			"365"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -604,7 +604,7 @@
 	"16x9dark_right"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x9dark_right"
 		"xpos"			"439"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -629,7 +629,7 @@
 	"16x10Crosshair_vertical1"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x10Crosshair_vertical1"
 		"xpos"			"384"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -650,7 +650,7 @@
 	"16x10Crosshair_horizontal1"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x10Crosshair_horizontal1"
 		"xpos"			"35"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -671,7 +671,7 @@
 	"16x10Crosshair_horizontal2"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x10Crosshair_horizontal2"
 		"xpos"			"403"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -692,7 +692,7 @@
 	"16x10dark_top"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"CriticalPanel"
 		"xpos"			"384"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -713,7 +713,7 @@
 	"16x10dark_bottom"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x10dark_bottom"
 		"xpos"			"384"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -734,7 +734,7 @@
 	"16x10dark_left"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x10dark_left"
 		"xpos"			"315"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -755,7 +755,7 @@
 	"16x10dark_right"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"16x10dark_right"
 		"xpos"			"403"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -780,7 +780,7 @@
 	"4x3Crosshair_vertical1"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"4x3Crosshair_vertical1"
 		"xpos"			"319"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -801,7 +801,7 @@
 	"4x3Crosshair_horizontal1"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"4x3Crosshair_horizontal1"
 		"xpos"			"10"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -822,7 +822,7 @@
 	"4x3Crosshair_horizontal2"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"4x3Crosshair_horizontal2"
 		"xpos"			"340"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -843,7 +843,7 @@
 	"4x3dark_top"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"4x3dark_top"
 		"xpos"			"319"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -864,7 +864,7 @@
 	"4x3dark_bottom"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"4x3dark_bottom"
 		"xpos"			"319"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -885,7 +885,7 @@
 	"4x3dark_left"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"4x3dark_left"
 		"xpos"			"250"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -902,12 +902,11 @@
 		"fillcolor"		"255 255 255 255"
 		"alpha" "100"
 	}
-	
 
 	"4x3dark_right"
 	{
 		"ControlName"		"ImagePanel"
-		"fieldName"		"VerticalLine"
+		"fieldName"		"4x3dark_right"
 		"xpos"			"340"
 		"xpos_lodef"	"279"
 		"xpos_hidef"	"309"
@@ -1238,6 +1237,18 @@
 		
 		"PaintBackgroundType"	"2"
 	}
+
+	"CurrencyStatusPanel"
+	{
+		"ControlName"		"CCurrencyStatusPanel"
+		"fieldName"			"CurrencyStatusPanel"
+		"xpos"				"c-190"
+		"ypos"				"r90"
+		"wide"				"100"
+		"tall"				"100"
+		"visible" 			"1"
+		"enabled" 			"1"
+	}
 	
 	HudProgressBar
 	{
@@ -1308,16 +1319,7 @@
 
 	HudDamageIndicator
 	{
-		"fieldName" "HudDamageIndicator"
-		"visible" "1"
-		"enabled" "1"
-		"MinimumWidth" "10"
-		"MaximumWidth" "10"		
-		"StartRadius" "80"
-		"EndRadius" "80"
-		"MinimumHeight" "30"
-		"MaximumHeight" "60"
-		"MinimumTime" "1" 
+
 	}
 
 	HudCommentary
@@ -1622,7 +1624,7 @@
 		"tall" "32"
 	}
 
-		HudVoiceStatus
+	HudVoiceStatus
 	{
 		"fieldName" "HudVoiceStatus"
 		"visible" "1"
@@ -1889,7 +1891,7 @@
 		"PaintBackgroundType"	"0"
 	}
 	
-		"HudEurekaEffectTeleportMenu"
+	"HudEurekaEffectTeleportMenu"
 	{
 		"fieldName" 	"HudEurekaEffectTeleportMenu"
 		"visible" 		"1"
@@ -2245,10 +2247,22 @@
 		"wide"			"320"
 		"tall"			"150"
 	}
-	
-		"CTFKillStreakNotice"
+
+	CTFFlagCalloutPanel
 	{
-		"fieldName"		"CTFKillStreakNotice"
+		"fieldName"		"CTFFlagCalloutPanel"
+		"visible" 		"0"
+		"enabled" 		"1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"	 		"40"
+		"tall"	 		"40"
+		"priority"		"40"
+	}
+	
+	"CTFStreakNotice"
+	{
+		"fieldName"		"CTFStreakNotice"
 		"xpos"			"0"			
 		"ypos"			"0"
 		"wide"			"640"
@@ -2258,6 +2272,7 @@
 		"bgcolor_override"	"0 0 0 0"
 		"PaintBackgroundType"	"0" // rounded corners
 	}
+
 	"HudMenuTauntSelection"
 	{
 		"fieldName" 	"HudMenuTauntSelection"
@@ -2269,7 +2284,20 @@
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
 	}
-		HudMiniGame
+
+	"ItemAttributeTracker"
+	{
+		"fieldName" 	"ItemAttributeTracker"
+		"visible" 		"1"
+		"enabled" 		"1"
+		"xpos"			"0"
+		"ypos"			"0"
+		"wide"			"f5"
+		"tall"			"f0"
+		"PaintBackgroundType"	"0"
+	}
+
+	HudMiniGame
 	{
 		"fieldName" 	"HudMiniGame"
 		"visible" 		"1"
@@ -2279,5 +2307,65 @@
 		"wide" 			"f0"
 		"tall" 			"480"
 	}
-	
+
+	"QuestNotificationPanel"
+	{
+		"fieldName"	"QuestNotificationPanel"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	"0"
+		"ypos"	"0"
+		"wide"	"f0"
+		"tall"	"f0"
+	}
+
+	HudSpectatorExtras
+	{
+		"fieldName" "HudSpectatorExtras"
+		"visible" "1"
+		"enabled" "1"
+		"xpos"	"0"
+		"ypos"	"0"
+		"wide"	"f0"
+		"tall"	"f0"
+	}
+
+	MatchSummary
+	{
+		"fieldName" "MatchSummary"
+		"visible" "0"
+		"enabled" "1"
+		"xpos"	"0"
+		"ypos"	"0"
+		"wide"	"f0"
+		"tall"	"f0"
+	}
+
+	HudMatchStatus
+	{
+		"fieldName"				"HudMatchStatus"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"0"
+		"ypos"					"0"
+		"zpos"					"3"
+		"wide"					"f0"
+		"tall"					"f0"
+	}
+
+	"QueueHUDStatus"
+	{
+		"fieldName"				"QueueHUDStatus"
+		"visible"				"1"
+		"enabled"				"1"
+		"xpos"					"rs1-5"
+		"ypos"					"1"
+		"zpos"					"1001"
+		"wide"					"200"
+		"tall"					"18"
+		"proportionaltoparent"	"1"
+		"keyboardinputenabled"	"1"
+		"mouseinputenabled"		"0"
+		"alpha"					"100"
+	}
 }
