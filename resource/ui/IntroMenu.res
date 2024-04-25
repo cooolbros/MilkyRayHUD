@@ -16,7 +16,7 @@
 		"paintbackground"	"0"
 	}
 	
-		"MainBG"
+	"MainBG"
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"MainBG"
@@ -188,55 +188,6 @@
 		"end_delay"		"2.0"
 	}
 	
-	"MenuBG"
-	{
-		"ControlName"	"CModelPanel"
-		"fieldName"		"MenuBG"
-		"xpos"			"0"
-		"ypos"			"0"
-		"zpos"			"0"		
-		"wide"			"f0"
-		"tall"			"480"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"0"
-		"enabled"		"0"
-		"fov"			"20"
-		
-		"model"
-		{
-			"modelname"	"models/vgui/UI_welcome01_screen.mdl"
-			"skin"		"0"
-			"angles_x" "0"
-			"angles_y" "180"
-			"angles_z" "0"
-			"origin_x" "290"
-			"origin_x_lodef" "320"
-			"origin_x_hidef" "310"
-			"origin_y" "0"
-			"origin_z" "-39"
-			
-			"animation"
-			{
-				"name"			"Up"
-				"sequence"		"screenup"
-			}
-			
-			"animation"
-			{
-				"name"			"UpSlow"
-				"sequence"		"screenup_slow"
-			}
-			
-			"animation"
-			{
-				"name"			"Down"
-				"sequence"		"screendown"
-				"default"		"1"
-			}
-		}
-	}					
-	
 	"VideoCaption"
 	{
 		"ControlName"	"CExLabel"
@@ -258,36 +209,4 @@
 		"fgcolor"		"White"
 		"wrap"			"1"
 	}
-	
-	"Footer" [$X360]
-	{
-		"ControlName"		"CTFFooter"
-		"fieldName"			"Footer"
-		"zpos"				"6"
-		"tall"				"80"
-		"button_separator"	"10"
-		"button_separator_lodef"	"5"
-		"buttongap"			"50"
-		"textadjust"		"3"
-		"buttonoffsety"		"20"
-		"buttonoffsety_hidef"		"0"
-		"buttonoffsety_lodef"		"18"
-		"fonttext"			"MatchmakingDialogMenuLarge"
-		"fonttext_lodef"			"MatchmakingDialogMenuSmall"
-		"fgcolor"			"HudOffWhite" 	
-		
-		"button"
-		{
-			"name"		"intro"
-			"text"		"#GameUI_Back"
-			"icon"		"#GameUI_Icons_B_BUTTON"	
-		}
-		
-		"button"
-		{
-			"name"		"continue"
-			"text"		"#Button_SkipIntro_360"
-			"icon"		"#GameUI_Icons_A_BUTTON"	
-		}
-	}	
 }

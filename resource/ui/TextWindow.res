@@ -77,7 +77,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"paintborder"	"0"
-		"textAlignment"	"northwest"
+		"textAlignment"	"north-west"
 		"fgcolor"		"TanLight"
 	}
 
@@ -128,35 +128,37 @@
 		"depressedFgColor_override" "TanDark"
 		"selectedFgColor_override" 	"TanDark"
 	}
-	
-	"MenuBG"
+
+	"ContinueButtonEKey"
 	{
-		"ControlName"	"CModelPanel"
-		"fieldName"		"MenuBG"
-		"xpos"			"9999"
-		"ypos"			"9999"
-		"zpos"			"0"		
-		"wide"			"f0"
-		"tall"			"480"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"fov"			"20"
-		
-		"model"
-		{
-			"modelname"	"models/vgui/UI_welcome01_screen.mdl"
-			"skin"		"0"
-			"angles_x" "0"
-			"angles_y" "180"
-			"angles_z" "0"
-			"origin_x" "290"
-			"origin_y" "0"
-			"origin_z" "-39"
-		}
+		"ControlName"		"Button"
+		"fieldName"			"ContinueButtonEKey"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&E"
+		"command"			"okay"
 	}
 	
+	"ContinueButtonDKey"
+	{
+		"ControlName"		"Button"
+		"fieldName"			"ContinueButtonDKey"
+		"xpos"				"-9999"
+		"ypos"				"-9999"
+		"zpos"				"-9999"
+		"wide"				"0"
+		"tall"				"0"
+		"visible"			"1"
+		"enabled"			"1"
+		"labelText"			"&D"
+		"command"			"okay"
+	}
+
 	"ShadedBar"
 	{
 		"ControlName"	"ImagePanel"
