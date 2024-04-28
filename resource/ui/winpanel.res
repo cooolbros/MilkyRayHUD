@@ -12,7 +12,7 @@
 
 		"BlueScoreBG"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"		"EditablePanel"
 			"fieldName"		"BlueScoreBG"
 			"xpos"			"0"
 			"ypos"			"15"
@@ -27,7 +27,7 @@
 		}
 		"RedScoreBG"
 		{
-			"ControlName"		"ImagePanel"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"RedScoreBG"
 			"xpos"			"100"
 			"ypos"			"15"
