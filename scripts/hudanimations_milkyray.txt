@@ -119,3 +119,13 @@ event CompetitiveGame_LowerChatWindow
 event CompetitiveGame_RestoreChatWindow
 {
 }
+
+event ActiveTimerHighlight
+{
+	Animate TimePanelValue FgColor	MilkyFg		Linear 0 0.0
+}
+
+event ActiveTimerDim
+{
+	Animate TimePanelValue FgColor	MilkyFg		Linear 0.0 0.0
+}

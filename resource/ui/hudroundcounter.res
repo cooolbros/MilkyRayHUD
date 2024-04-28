@@ -4,8 +4,8 @@
 	{
 		"fieldName"		"RoundCounter"
 		"xpos"			"cs-0.5"
-		"ypos"			"-2"
-		"zpos"			"2"		
+		"ypos"			"0"
+		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"25"
 		"visible"		"1"
@@ -19,9 +19,9 @@
 
 		"RoundIndicatorPanel_kv"
 		{
-			"ypos"				"4"
-			"wide"				"6"
-			"tall"				"6"
+			"ypos"				"1"
+			"wide"				"5"
+			"tall"				"5"
 			"zpos"				"7"
 			"image"				"../hud/comp_round_counter_dot_bg"
 			"scaleimage"		"1"
@@ -29,7 +29,7 @@
 
 		"RoundWinPanelRed_kv"
 		{
-			"ypos"				"-2"
+			"ypos"				"-5"
 			"wide"				"17"
 			"tall"				"17"
 			"zpos"				"8"
@@ -39,29 +39,25 @@
 
 		"RoundWinPanelBlue_kv"
 		{
-			"ypos"				"-2"
+			"ypos"				"-5"
 			"wide"				"17"
 			"tall"				"17"
 			"zpos"				"8"
 			"image"				"../hud/comp_round_counter_light_blue"
 			"scaleimage"		"1"
 		}
+
+		"Background"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"Background"
+			"xpos"			"cs-0.5"
+			"ypos"			"0"
+			"zpos"			"0"
+			"wide"			"80"
+			"tall"			"23"
+			"bgcolor_override"	"MilkyBG"
+			"proportionaltoparent"	"1"
+		}
 	}	
-
-	"Background"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Background"
-		"xpos"			"cs-0.5"
-		"ypos"			"0"
-		"zpos"			"5"
-		"wide"			"o3.833"
-		"tall"			"35"
-
-		"backgroundtype"		"2"
-		"proportionaltoparent"	"1"
-			
-		"image"					"../hud/comp_round_timer"
-		"scaleimage"			"1"
-	}
 }
